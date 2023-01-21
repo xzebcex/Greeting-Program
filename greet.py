@@ -1,7 +1,5 @@
 # This Program greet's the user with hello and ask for our name.
 
-# This Program greet's with hello and ask for our name.
-
 print("Hello!")
 
 name = input("What is your name > ")  # ask for our name.
